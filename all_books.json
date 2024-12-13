@@ -1,0 +1,32 @@
+[
+    {
+        "title": "bn",
+        "author": "mn",
+        "ISBN": 45415,
+        "year": 2312,
+        "price": 12,
+        "quantity": 340,
+        "bookAddedAt": "13-12-24 18:38:46",
+        "bookLastUpdated": "13-12-24 18:39:14"
+    },
+    {
+        "title": "pol",
+        "author": "mok",
+        "ISBN": 22982,
+        "year": 2021,
+        "price": 200,
+        "quantity": 100,
+        "bookAddedAt": "13-12-24 19:53:37",
+        "bookLastUpdated": "13-12-24 22:09:03"
+    },
+    {
+        "title": "pop",
+        "author": "sumu",
+        "ISBN": 41921,
+        "year": 2021,
+        "price": 100,
+        "quantity": 10,
+        "bookAddedAt": "13-12-24 22:08:32",
+        "bookLastUpdated": ""
+    }
+]
